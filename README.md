@@ -1,8 +1,8 @@
 Hi there, I'm Ilgvars
 
-I'm software developer with a primary focus on C#. I have a strong foundation in C# and the .NET framework, along with a solid understanding of object-oriented programming. While I have a strong foundation in front-end development, my true passion lies in leveraging C# to build powerful backend systems and applications. I'm honing my skills every day and continually expanding my knowledge.
+Besides walking 10,000 steps daily, my hobbies tend to shift all the time. I explore new things all the time and enjoy trail walking and nature. I also enjoy reading different books about varying subjects.
 
-Besides walking 10,000 steps daily, my hobbies tend to shift all the time. I enjoy reading different types of books, ranging from educational to entertainment.
+I'm software developer with a primary focus on C#. Initially I discovered programming in high school where we had lectures on Pascal and Delphi langueages, where my aptitude was already showing. It was further solidified during unversity where I had introductory lectures in C, Python and Java. After trying out Front End development I swapped back to Back End. I have a strong foundation in C# and the .NET framework, along with a solid understanding of object-oriented programming. While I have a strong foundation in front-end development, my true passion lies in leveraging C# to build backend systems and applications. I'm honing my skills every day and continually expanding my knowledge.
 
 ##  Skills
 
