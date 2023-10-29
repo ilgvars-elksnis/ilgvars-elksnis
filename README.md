@@ -16,4 +16,4 @@ I'm software developer with a primary focus on C#. Initially I discovered progra
 
 Feel free to contact me
 
-<a href="https://www.linkedin.com/in/ilgvars-elksnis-622a6a298/"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon.svg" width="30" alt="Linked In" /></a>&ensp;&ensp;<a href="mailto:elksnisilgvars@gmail.com"><img src="https://cdn.worldvectorlogo.com/logos/gmail-icon-1.svg" width="30" alt="Gmail Icon In" />
+<a href="https://www.linkedin.com/in/ilgvars-elksnis/"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon.svg" width="30" alt="Linked In" /></a>&ensp;&ensp;<a href="mailto:elksnisilgvars@gmail.com"><img src="https://cdn.worldvectorlogo.com/logos/gmail-icon-1.svg" width="30" alt="Gmail Icon In" />
