@@ -1,23 +1,19 @@
-<br/>
+Hi there, I'm Ilgvars
 
-## Greetings, I'm Ilgvars Elksnis
-<br />
-<a href="https://www.linkedin.com/in/ilgvars-elksnis/" target="_blank"><img align="left" alt="Ilgvars Elksnis | LinkedIn" width="22px" <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M19 0h-14c-2.761 0-5 2.239-5 5v14c0 2.761 2.239 5 5 5h14c2.762 0 5-2.239 5-5v-14c0-2.761-2.238-5-5-5zm-11 19h-3v-11h3v11zm-1.5-12.268c-.966 0-1.75-.79-1.75-1.764s.784-1.764 1.75-1.764 1.75.79 1.75 1.764-.783 1.764-1.75 1.764zm13.5 12.268h-3v-5.604c0-3.368-4-3.113-4 0v5.604h-3v-11h3v1.765c1.396-2.586 7-2.777 7 2.476v6.759z"/></svg>
-<br />
-<br />
+I'm software developer with a primary focus on C#. I have a strong foundation in C# and the .NET framework, along with a solid understanding of object-oriented programming. While I have a strong foundation in front-end development, my true passion lies in leveraging C# to build powerful backend systems and applications. I'm honing my skills every day and continually expanding my knowledge.
 
+Besides walking 10,000 steps daily, my hobbies tend to shift all the time. I enjoy reading different types of books, ranging from educational to entertainment.
 
-### Languages and Tools:
+##  Skills
 
+<img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" width="35" alt="Html 5" />&ensp;&ensp;<img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" width="35" alt="CSS" />&ensp;&ensp;<img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" width="35" alt="JavaScript" />&ensp;&ensp;<img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" width="41" alt="TypeScript" />&ensp;&ensp;<img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" width="40" alt="ReactJS" />&ensp;&ensp;<img src="https://cdn.worldvectorlogo.com/logos/mysql-logo.svg" width="50" alt="MySQL" />&ensp;&ensp;<img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" width="30" alt="C#" />
 
-<a href="https://www.w3.org/html/" target="_blank"><img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></a>
-<a href="https://www.w3schools.com/css/" target="_blank"><img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></a>
+**Tools**
 
-<a href="https://www.w3schools.com/cs/index.php" target="_blank"> <img align="left" alt="C++" width="26px" src="https://icons8.com/icon/Fycm8TUhWmFU/c-sharp-logo"/></a>
+<img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" width="35" alt="Visual Studio Code" />&ensp;&ensp;<img src="https://cdn.worldvectorlogo.com/logos/visual-studio-2013.svg" width="35" alt="Visual Studio" />&ensp;&ensp;<img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" width="35" alt="GIT" />&ensp;&ensp;
 
-<br />
-### Softwares:
+## Contacts
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+Feel free to contact me
 
-
+<a href="https://www.linkedin.com/in/ilgvars-elksnis-622a6a298/"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon.svg" width="30" alt="Linked In" /></a>&ensp;&ensp;<a href="mailto:elksnisilgvars@gmail.com"><img src="https://cdn.worldvectorlogo.com/logos/gmail-icon-1.svg" width="30" alt="Gmail Icon In" />
