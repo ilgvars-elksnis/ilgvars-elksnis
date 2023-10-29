@@ -8,7 +8,7 @@ I'm software developer with a primary focus on C#. Initially I discovered progra
 
 <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" width="35" alt="Html 5" />&ensp;&ensp;<img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" width="35" alt="CSS" />&ensp;&ensp;<img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" width="35" alt="JavaScript" />&ensp;&ensp;<img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" width="41" alt="TypeScript" />&ensp;&ensp;<img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" width="40" alt="ReactJS" />&ensp;&ensp;<img src="https://cdn.worldvectorlogo.com/logos/mysql-logo.svg" width="50" alt="MySQL" />&ensp;&ensp;<img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" width="30" alt="C#" />
 
-**Tools**
+## Tools
 
 <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" width="35" alt="Visual Studio Code" />&ensp;&ensp;<img src="https://cdn.worldvectorlogo.com/logos/visual-studio-2013.svg" width="35" alt="Visual Studio" />&ensp;&ensp;<img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" width="35" alt="GIT" />&ensp;&ensp;
 
